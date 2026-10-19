@@ -10,6 +10,7 @@ jobs:
     timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
+      - run: sudo apt-get install -y graphviz  # `dot`, for pm.model_to_graphviz
       - uses: astral-sh/setup-uv@v6
         with:
           python-version: "3.13"

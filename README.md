@@ -21,6 +21,8 @@ uv run jupyter lab player_or_team.ipynb
 uv run pytest  # executes the whole notebook, a few minutes
 ```
 
+The model graphs need the [Graphviz](https://graphviz.org/download/) binary (`brew install graphviz` or `apt install graphviz`); Colab has it.
+
 ## Credits
 
 The models come from the Soccer Factor Model: Andorra & Göbel (2024), *Unveiling True Talent: The Soccer Factor
