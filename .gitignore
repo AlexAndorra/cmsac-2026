@@ -7,3 +7,4 @@ __pycache__/
 *.nc
 .DS_Store
 .claude/
+bonus/

@@ -19,7 +19,7 @@ dependencies = [
     "pytensor==3.3.4",
     "scikit-learn>=1.6",
     "scipy>=1.14",
-    "statsmodels>=0.14",
+    "watermark==2.6.0",
     "xarray>=2025.1",
 ]
 
