@@ -18,6 +18,6 @@ Serie A, seasons 2000/01 to 2023/24 (33,678 rows).
 | `goals_in_match` | Goals the player scored in the match |
 | `goal` | 1 if the player scored at least once |
 
-Source: the Soccer Factor Model dataset, [github.com/AlexAndorra/football-modeling](https://github.com/AlexAndorra/football-modeling),
+Source: Soccer Factor Model dataset, [github.com/AlexAndorra/football-modeling](https://github.com/AlexAndorra/football-modeling),
 from Andorra & Göbel (2024), *Unveiling True Talent: The Soccer Factor Model for Skill Evaluation*,
 [arXiv:2412.05911](https://arxiv.org/abs/2412.05911). Trimmed to the columns used here.

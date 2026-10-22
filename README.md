@@ -9,7 +9,7 @@ Building a Bayesian skill model for soccer, live in PyMC. A 90-minute workshop a
 
 | Path | What it is |
 |---|---|
-| `player_or_team.ipynb` | The session: a first Bayesian model, a hierarchical model of player skill, Gaussian processes for form and career stage, team factors, and out-of-sample validation |
+| `player_or_team.ipynb` | The session's notebook |
 | `data/` | Player-match data from the Soccer Factor Model; codebook in `data/README.md` |
 | `tests/` | Runs the notebook end to end |
 
