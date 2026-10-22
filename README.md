@@ -3,7 +3,7 @@
 Building a Bayesian skill model for soccer, live in PyMC. A 90-minute workshop at the
 [Carnegie Mellon Sports Analytics Conference](https://www.stat.cmu.edu/cmsac/conference/), October 2026.
 
-**[▶ Open the notebook in Colab](https://colab.research.google.com/github/AlexAndorra/cmsac-2026/blob/main/player_or_team.ipynb)**: nothing to install.
+**[▶ Open the notebook in Colab](https://colab.research.google.com/github/AlexAndorra/cmsac-2026/blob/main/player_or_team.ipynb)** (nothing to install).
 
 ## What's here
 
